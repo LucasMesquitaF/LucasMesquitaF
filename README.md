@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://github.com/LucasMesquitaF/convoychat">
- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=tokyonightlangs_count=8&card_width=320"/>
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=tokyonight&langs_count=8&card_width=320"/>
 </a>
 
 
