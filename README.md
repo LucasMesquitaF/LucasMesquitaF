@@ -1,11 +1,17 @@
 ## Olá, eu sou Lucas Mesquita
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 Atualmente fazendo projetos de React.js para aprendizado
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=tokyonight)
 
-[![Lucas's GitHub stats](https://github-readme-stats-eight-gray-46.vercel.app/api?username=LucasMesquitaF&show_icons=true&theme=tokyonight)](https://github.com/LucasMesquitaF/github-readme-stats)
+<a href="https://github.com/LucasMesquitaF/github-readme-stats">
+ <img height=200 align="center" src="https://github-readme-stats-eight-gray-46.vercel.app/api?username=LucasMesquitaF&show_icons=true&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/LucasMesquitaF/convoychat">
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=tokyonight"/>
+</a>
 
 
 
